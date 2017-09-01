@@ -1,0 +1,140 @@
+a {
+	text-decoration: none;
+	color: #333;
+	padding: 10px;
+    font-family: arial;
+}
+
+#navbar-back {
+    background-color: #e1e1e1;
+    min-height: 50px;
+    text-align: center;
+    padding: 1px;
+}
+
+#textField1 {
+    background-color: #333;
+    min-height: 300px;
+    color: white;
+    padding: 20px;
+}
+
+#textFieldText {
+	vertical-align: bottom;
+    font-family: arial;
+    font-size: 26px;
+    position: absolute;
+    margin-top: 200px;
+}
+
+#intro {
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: #333;
+	clear: both;
+}
+
+.intro {
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: #333;
+	clear: both;
+}
+
+#floating-box {
+    float: left;
+    max-width: 400px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+#floating-box-circle {
+    padding: 50px 50px; 
+    background: #e1e1e1;
+    width: 5px;
+    border-radius: 100px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+
+#subtitle-photo {
+	height: 400px;
+	width: 750px;
+	margin-left: 100px;
+	background: #e1e1e1;
+    float: left;
+}
+
+#subtitle-photo1 {
+	height: 95px;
+	width: 95px;
+	margin-left: 1000px;
+	background: #e1e1e1;
+}
+
+#subtitle-photo2 {
+    height: 95px;
+    width: 95px;
+    margin-left: 1000px;
+    background: #e1e1e1;
+    margin-top: 6px;
+}
+
+#subtitle-photo3 {
+    height: 95px;
+    width: 95px;
+    margin-left: 1000px;
+    background: #e1e1e1;
+    margin-top: 6px;
+}
+
+#subtitle-photo4 {
+    height: 95px;
+    width: 95px;
+    margin-left: 1000px;
+    background: #e1e1e1;
+    margin-top: 6px;
+}
+
+.another-subtitle-photo {
+    height: 65px;
+    width: 450px;
+    background: #e1e1e1;
+    margin-top: 9px;
+    display: block;
+    margin-left: 100px;
+}
+
+.another-subtitle-photo1 {
+    width: 600px;
+    height: 300px;
+    background-color: #e1e1e1;
+    float: right;
+    margin-right: 100px;
+}
+
+.left {
+    float: left;
+    width: 300px;
+}
+
+.submit-button {
+    height: 50px;
+    width: 200px;
+    background: #333;
+    margin-top: 9px;
+    display: block;
+    margin-left: 965px;
+}
+
+.footer {
+    height: 50px;
+    width: 1280px;
+    background: #333;
+    margin-top: 75px;
+    display: block;
+    float: left;
+}
