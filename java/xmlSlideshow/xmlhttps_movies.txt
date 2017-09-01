@@ -1,0 +1,187 @@
+{
+	"id": "my_area_collections",
+	"data":	[{
+		"id": "movies_for_you",
+		"title": "Movies for you",
+		"type": "assets",
+		"assets": [{
+			"id": "the_descendants",
+			"title": "The Descendants",
+			"url": "/asset_descendants",
+			"genre": "Comedy", 
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_descendants.png"
+		}, {
+			"id": "avatar",
+			"title": "Avatar",
+			"url": "/series_breaking_bad",
+			"genre": "Action",
+			"type": "1",
+			"imdb": "5.7",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_avatar.png"
+		}, {
+			"id": "argo",
+			"title": "Argo",
+			"genre": "Biography",
+			"type": "1",
+			"imdb": "8.7",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_argo.png"
+		}, {
+			"id": "quantum_of_solace",
+			"title": "Quantum of Solace",
+			"genre": "Action",
+			"type": "1",
+			"imdb": "5.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_quantum_of_solace.png"
+		}, {
+			"id": "crazy_stupid_love",
+			"title": "Crazy Stupid Love",
+			"genre": "Comedy",
+			"type": "1",
+			"imdb": "4.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_crazy_stupid_love.png"
+		}, {
+			"id": "slumdog_millionaire",
+			"title": "Slumdog Millionaire",
+			"genre": "Drama",
+			"type": "1",
+			"imdb": "7.2",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_slumdog_millionaire.png"
+		}, {
+			"id": "gangs_of_new_york",
+			"title": "Gangs of New York",
+			"genre": "Crime",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_gangs_of_new_york.png"
+		}, {
+			"id": "The_Kings_speech",
+			"title": "The King's speech",
+			"genre": "Biography",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_the_kings_speech.png"
+		}, {
+			"id": "Good_Night_and_Good_Luck",
+			"title": "Good Night, and Good Luck.",
+			"genre": "Drama",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_good_night_and_good_luck.png"
+		}, {
+			"id": "Brick_Mansions",
+			"title": "Brick Mansions",
+			"genre": "Action",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_brick_mansions.png"
+		}, {
+			"id": "Breaking_Bad",
+			"title": "Breaking Bad",
+			"genre": "Crime",
+			"type": "1",
+			"imdb": "7.4",
+			"url": "/series_breaking_bad",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_breaking_bad.png"
+		}, {
+			"id": "more",
+			"title": "More like this",
+			"type": "3",
+			"url": "/some_url"
+		}]
+	},
+
+	{
+		"id": "movies_for_him",
+		"title": "Movies for him",
+		"type": "assets",
+		"assets": [{
+			"id": "the_descendants",
+			"title": "The Descendants",
+			"url": "/asset_descendants",
+			"genre": "Comedy",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_descendants.png"
+		}, {
+			"id": "avatar",
+			"title": "Avatar",
+			"url": "/series_breaking_bad",
+			"genre": "Action",
+			"type": "1",
+			"imdb": "5.7",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_avatar.png"
+		}, {
+			"id": "argo",
+			"title": "Argo",
+			"genre": "Biography",
+			"type": "1",
+			"imdb": "8.7",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_argo.png"
+		}, {
+			"id": "quantum_of_solace",
+			"title": "Quantum of Solace",
+			"genre": "Action",
+			"type": "1",
+			"imdb": "5.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_quantum_of_solace.png"
+		}, {
+			"id": "crazy_stupid_love",
+			"title": "Crazy Stupid Love",
+			"genre": "Comedy",
+			"type": "1",
+			"imdb": "4.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_crazy_stupid_love.png"
+		}, {
+			"id": "slumdog_millionaire",
+			"title": "Slumdog Millionaire",
+			"genre": "Drama",
+			"type": "1",
+			"imdb": "7.2",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_slumdog_millionaire.png"
+		}, {
+			"id": "gangs_of_new_york",
+			"title": "Gangs of New York",
+			"genre": "Crime",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_gangs_of_new_york.png"
+		}, {
+			"id": "The_Kings_speech",
+			"title": "The King's speech",
+			"genre": "Biography",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_the_kings_speech.png"
+		}, {
+			"id": "Good_Night_and_Good_Luck",
+			"title": "Good Night, and Good Luck.",
+			"genre": "Drama",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_good_night_and_good_luck.png"
+		}, {
+			"id": "Brick_Mansions",
+			"title": "Brick Mansions",
+			"genre": "Action",
+			"type": "1",
+			"imdb": "7.4",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_brick_mansions.png"
+		}, {
+			"id": "Breaking_Bad",
+			"title": "Breaking Bad",
+			"genre": "Crime",
+			"type": "1",
+			"imdb": "7.4",
+			"url": "/series_breaking_bad",
+			"img": "http://test.competa.com/js-movies-test/data/images/box_breaking_bad.png"
+		}, {
+			"id": "more",
+			"title": "More like this",
+			"type": "3",
+			"url": "/some_url"
+		}]
+	}
+	]
+}
