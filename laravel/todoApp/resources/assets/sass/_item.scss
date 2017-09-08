@@ -1,0 +1,29 @@
+.column-individual {
+	max-width: 250px;
+	margin-left: 7.5%;
+	height: 100px;
+	border-style: solid;
+	margin-top: 10%;
+}
+
+.button-input {
+	float: left;
+	display: inline-block;
+	margin-left: 45px;
+	border-style: solid;
+	border-color: #666666;
+}
+
+textarea {
+	border-style: solid;
+	border-color: #666666;
+	resize: none;
+	border-width: 3px;
+}
+
+input {
+	background-color: #FFFFFF;
+	border-style: solid;
+	border-color: #666666;
+	border-width: 3px;
+}
